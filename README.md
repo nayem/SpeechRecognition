@@ -10,7 +10,7 @@ Deep learning models CNNs, RNNs and DNNs are complementary in their modeling cap
 In this project, we take advantage of the complementarity of CNNs, RNNs and DNNs by combining them into one unified CRNN architecture.
 Our system, provides state-of-the-art results on the widely studied TIMIT corpus and in noisy environments as well.
 
-Report [[LINK]](knayem_speech-recognition-system.pdf)
+Report [[LINK]](knayem_speech-recognition-system.pdf).
 
 &nbsp;
 
@@ -18,6 +18,6 @@ Report [[LINK]](knayem_speech-recognition-system.pdf)
 
 **Khandokar Md. Nayem** (knayem@iu.edu)
 
-Taslima Akter (takter@iu.edu)
+**Taslima Akter** (takter@iu.edu)
 
 Indiana University, Bloomington
